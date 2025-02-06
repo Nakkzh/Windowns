@@ -18,4 +18,4 @@ Software é uma coleção de programas e dados que dizem a um computador como ex
 
 ### O que são Hardware
 
-O hardware é um termo técnico que foi traduzido para a lingua portuguesa como equipamento, e pode ser definido como um termo geral da lingua inglesa, que se refere à parte fisica de computadores e outros sistemas microeletrônicos. o termo "hardware" se aplica à unidade central de processamento, à memória e aos dispositivos de entrada e saída, bem como a todos os componentes físicos de computadores.
+O hardware é um termo técnico, é usado para definir a parte fisica de computadores e outros sistemas microeletrônicos. o termo "hardware" se aplica à unidade central de processamento, à memória e aos dispositivos de entrada e saída, bem como a todos os componentes físicos de computadores.
