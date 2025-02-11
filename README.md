@@ -99,3 +99,22 @@ systeminfo
 ## Conclusão:
 
 os sistemas operacionais, como o Windows, desempenham um papel fundamental na interface entre o usuário e a máquina, permitindo que o hardware e o software se comuniquem de forma eficiente. Ao longo das décadas, o Windows evoluiu, desde suas raízes no ambiente de mainframes até se tornar o sistema operacional intuitivo e acessível que conhecemos hoje. O legado do Windows reflete o avanço da tecnologia, não apenas no design de sistemas operacionais, mas também em como a interação com o computador se tornou mais fluida e acessível, oferecendo aos usuários mais controle, desempenho e segurança.
+
+---
+## Fontes
+
+```bash
+https://pt.wikipedia.org/wiki/Microsoft_Windows
+```
+
+```bash
+https://olhardigital.com.br/2020/11/20/noticias/anos-de-evolucao-conheca-a-historia-do-windows/
+```
+
+```bash
+https://canaltech.com.br/windows/o-que-e-o-windows/
+```
+
+```bash
+https://chatgpt.com/
+```
