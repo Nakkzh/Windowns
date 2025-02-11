@@ -35,7 +35,7 @@ O hardware é um termo técnico, é usado para definir a parte fisica de computa
 
 ---
 
-## O que é o Windowns?
+## O que é o Windows?
 
 O Windows é um sistema operacional desenvolvido pela Microsoft, amplamente utilizado em computadores pessoais, empresariais e servidores. Ele fornece uma interface gráfica intuitiva para os usuários interagirem com o hardware e executarem aplicativos.
 
@@ -86,7 +86,7 @@ systeminfo
 
 ---
 
-## Curiosidades sobre o Windowns
+## Curiosidades sobre o Windows
 
 1. **Primeiro nome do Windows** – Antes de ser chamado de Windows, a Microsoft planejava nomeá-lo "Interface Manager", mas mudou para "Windows" por ser mais intuitivo.
 2. **Atalhos ocultos no teclado** – No Windows, pressionar `Ctrl + Shift + Esc` abre o Gerenciador de Tarefas diretamente, sem precisar usar `Ctrl + Alt + Del`.  
