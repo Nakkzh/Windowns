@@ -39,6 +39,13 @@ O hardware é um termo técnico, é usado para definir a parte fisica de computa
 
 O Windows é um sistema operacional desenvolvido pela Microsoft, amplamente utilizado em computadores pessoais, empresariais e servidores. Ele fornece uma interface gráfica intuitiva para os usuários interagirem com o hardware e executarem aplicativos.
 
+## Versões do Windows
+- **1995-Windows 95**: Trouxe o menu iniciar e barra de tarefas.
+- **2001-Windows XP**: Tornou popular e amigavel a interface.
+- **2009-Windows 7**: Trouxe segurança e melhor uso.
+- **2015-Windows 10**: Novo menu, modelo de atualizações continuas.
+- **2021-Windows 11**: Novo desing e melhor desempenho.
+
 ## **Principais Características do Windows**
 - Interface baseada em janelas, ícones e menus, facilitando o uso.
 - Suporte a múltiplas tarefas, permitindo executar vários programas ao mesmo tempo.
