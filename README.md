@@ -39,7 +39,7 @@ O hardware é um termo técnico, é usado para definir a parte fisica de computa
 
 O Windows é um sistema operacional desenvolvido pela Microsoft, amplamente utilizado em computadores pessoais, empresariais e servidores. Ele fornece uma interface gráfica intuitiva para os usuários interagirem com o hardware e executarem aplicativos.
 
-## Versões do Windows
+## Algumas versões do Windows
 - **1995-Windows 95**: Trouxe o menu iniciar e barra de tarefas.
 - **2001-Windows XP**: Tornou popular e amigavel a interface.
 - **2009-Windows 7**: Trouxe segurança e melhor uso.
